@@ -1,0 +1,29 @@
+@import '~office-ui-fabric-react/dist/sass/References.scss';
+
+.alert img{
+  max-height: 20rem;
+}
+.alertNews{
+  width: 100%;
+  color: black;
+}
+.alertNews h6{
+  font-size: 13px;
+  margin-bottom: 0;
+}
+.alertNews h3{
+  font-size: 15px;
+  margin-bottom: 0;
+}
+.alertNews a{
+  text-decoration: none;
+  color: black;
+}
+.alertNews p{
+  font-size: 10px;
+  margin-bottom: 0;
+}
+.alertNews small{
+  font-size: 7px;
+  margin-bottom: 0;
+}
